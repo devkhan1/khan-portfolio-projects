@@ -8,7 +8,7 @@ A full‑stack Next.js, TypeScript & Tailwind CSS application demonstrating web 
 
 ## 🌐 Live Demo & Corporate Site
 
-- **Live Portfolio:** [https://khan-portfolio-8303e.web.app](https://khan-portfolio-8303e.web.app/)  
+**Live Portfolio:** [https://khan.rahmx.co.uk](https://khan.rahmx.co.uk)  
 - **Rahmx Ltd:** [https://www.rahmx.co.uk](https://www.rahmx.co.uk)
 
 ---
