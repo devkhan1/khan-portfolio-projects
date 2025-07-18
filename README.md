@@ -91,7 +91,55 @@ Let’s learn, innovate, and shape the future of ethical technology—together! 
 
 ## 🖼️ Screenshots & Pitch Pack
 
-- **Screenshots:** see `/public/demo-assets/` for visual previews  
+## 📸 Screenshot Previews
+
+Below are the visual previews stored in the `/demo-assets/` folder:
+
+### 🔹 Asset 1
+![Asset 1](./demo-assets/assets-1.png)
+
+### 🔹 Asset 2
+![Asset 2](./demo-assets/assets-2.png)
+
+### 🔹 Asset 3
+![Asset 3](./demo-assets/assets-3.png)
+
+### 🔹 Asset 4
+![Asset 4](./demo-assets/assets-4.png)
+
+### 🔹 Asset 5
+![Asset 5](./demo-assets/assets-5.png)
+
+### 🔹 Asset 6
+![Asset 6](./demo-assets/assets-6.png)
+
+### 🔹 Asset 7
+![Asset 7](./demo-assets/assets-7.png)
+
+### 🔹 Asset 8
+![Asset 8](./demo-assets/assets-8.png)
+
+### 🔹 Asset 9
+![Asset 9](./demo-assets/assets-9.png)
+
+### 🔹 Asset 10
+![Asset 10](./demo-assets/assets-10.png)
+
+### 🔹 Asset 11
+![Asset 11](./demo-assets/assets-11.png)
+
+### 🔹 Asset 12
+![Asset 12](./demo-assets/assets-12.png)
+
+### 🔹 Asset 13
+![Asset 13](./demo-assets/assets-13.png)
+
+### 🔹 Asset 14
+![Asset 14](./demo-assets/assets-14.png)
+
+### 🔹 Asset 15
+![Asset 15](./demo-assets/assets-15.png)
+
 - **Pitch Pack PDF:** [Download Rahmx_Pitch_Pack.pdf](./Rahmx_Pitch_Pack.pdf)
 
 ---
