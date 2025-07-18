@@ -119,26 +119,6 @@ Below are the visual previews stored in the `/demo-assets/` folder:
 ### 🔹 Asset 8
 ![Asset 8](./demo-assets/assets-8.png)
 
-### 🔹 Asset 9
-![Asset 9](./demo-assets/assets-9.png)
-
-### 🔹 Asset 10
-![Asset 10](./demo-assets/assets-10.png)
-
-### 🔹 Asset 11
-![Asset 11](./demo-assets/assets-11.png)
-
-### 🔹 Asset 12
-![Asset 12](./demo-assets/assets-12.png)
-
-### 🔹 Asset 13
-![Asset 13](./demo-assets/assets-13.png)
-
-### 🔹 Asset 14
-![Asset 14](./demo-assets/assets-14.png)
-
-### 🔹 Asset 15
-![Asset 15](./demo-assets/assets-15.png)
 
 - **Pitch Pack PDF:** [Download Rahmx_Pitch_Pack.pdf](./Rahmx_Pitch_Pack.pdf)
 
