@@ -120,8 +120,6 @@ Below are the visual previews stored in the `/demo-assets/` folder:
 ![Asset 8](./demo-assets/assets-8.png)
 
 
-- **Pitch Pack PDF:** [Download Rahmx_Pitch_Pack.pdf](./Rahmx_Pitch_Pack.pdf)
-
 ---
 
 ## 🤝 Connect & Grow
