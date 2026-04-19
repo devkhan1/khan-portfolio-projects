@@ -1,7 +1,6 @@
 # Portfolio
 
-This is the official portfolio and showcase for **Khan**, Founder of Rahmx Ltd.  
-A full‑stack Next.js, TypeScript & Tailwind CSS application demonstrating web architecture, ethical AI systems, and branded digital experiences.  
+A full‑stack Next.js, TypeScript & Tailwind CSS application demonstrating web architecture, AI systems, and branded digital experiences.  
 “Where Intelligence Meets Identity™”
 
 ---
@@ -31,9 +30,7 @@ A full‑stack Next.js, TypeScript & Tailwind CSS application demonstrating web 
 - **Custom Products**  
 - **ZamaGPT™ memory assistant**  
 - **VaultDNA™ secure media gallery**  
-- **E‑Commerce & Business Hosting**  
 - **Creative & Personal Management**  
-- **Career & CV Advice**
 
 ---
 
@@ -51,12 +48,6 @@ A full‑stack Next.js, TypeScript & Tailwind CSS application demonstrating web 
 
 ## 💸 Pricing & Service Options
 
-| Tier       | Description                                              | Price (GBP) |
-|------------|----------------------------------------------------------|-------------|
-| Starter    | Website clone with contact form setup                    | £2,500      |
-| Pro        | Brand customization + Firebase deployment                | £8,000      |
-| Agency     | White‑label license + ZamaGPT integration + dashboard    | £25,000     |
-
 📩 For partnerships, bulk licensing, or custom requests: **info@rahmx.co.uk**
 
 ---
@@ -67,12 +58,10 @@ I’m always looking for passionate collaborators and fresh ideas. Whether you�
 
 - **Collaborate on Projects:** Got an idea for an ethical AI tool, web app, or automation workflow? Let’s partner up—drop me a line at info@rahmx.co.uk.  
 - **Share Your Ideas:** Have a concept or challenge you want to solve? I love brainstorming new solutions—reach out anytime!  
-- **Courses Coming Soon:** Stay tuned for online courses on Next.js, Tailwind CSS, AI prompt engineering, and ethical memory‑powered systems.  
-- **Learn Alongside Me:** Want to pick up these skills yourself? Subscribe to my YouTube channel for tutorials, walkthroughs, and live coding sessions:  
-  [YouTube: Khan's Digital Diary](https://www.youtube.com/channel/khansdigitaldiary)  
+- **Courses Coming Soon:** Stay
 - **Join the Community:** Follow me on LinkedIn and Twitter for tips, resources, and updates as each course and project goes live.
 
-Let’s learn, innovate, and shape the future of ethical technology—together!  ```
+Let’s learn, innovate, and shape the future of technology—together!  ```
 
 ---
 
@@ -126,7 +115,6 @@ Below are the visual previews stored in the `/demo-assets/` folder:
 
 - **Join the Mission:** for developers passionate about ethical AI  
 - **Invest in the Future:** for partners sharing our vision  
-- **Free Starter Kit:** downloadable resources to kickstart your journey
 
 ---
 
@@ -136,8 +124,6 @@ Below are the visual previews stored in the `/demo-assets/` folder:
 - **Website:** [www.rahmx.co.uk](https://www.rahmx.co.uk)
 
 ---
-
-© 2025 Khan / Rahmx Ltd — Where Intelligence Meets Identity™
 
 ---
 
