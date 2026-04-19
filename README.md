@@ -78,39 +78,6 @@ Let’s learn, innovate, and shape the future of technology—together!  ```
 
 ---
 
-## 🖼️ Screenshots & Pitch Pack
-
-## 📸 Screenshot Previews
-
-Below are the visual previews stored in the `/demo-assets/` folder:
-
-### 🔹 Asset 1
-![Asset 1](./demo-assets/assets-1.png)
-
-### 🔹 Asset 2
-![Asset 2](./demo-assets/assets-2.png)
-
-### 🔹 Asset 3
-![Asset 3](./demo-assets/assets-3.png)
-
-### 🔹 Asset 4
-![Asset 4](./demo-assets/assets-4.png)
-
-### 🔹 Asset 5
-![Asset 5](./demo-assets/assets-5.png)
-
-### 🔹 Asset 6
-![Asset 6](./demo-assets/assets-6.png)
-
-### 🔹 Asset 7
-![Asset 7](./demo-assets/assets-7.png)
-
-### 🔹 Asset 8
-![Asset 8](./demo-assets/assets-8.png)
-
-
----
-
 ## 🤝 Connect & Grow
 
 - **Join the Mission:** for developers passionate about ethical AI  
